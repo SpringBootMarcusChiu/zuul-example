@@ -3,5 +3,8 @@ server:
 zuul:
   routes:
     foos:
-      path: /foos/**
-      url: http://localhost:8080/
+      path: /default/test
+      url: http://localhost:8080
+    teehee:
+      path: /teehee/**
+      url: http://localhost:8080
