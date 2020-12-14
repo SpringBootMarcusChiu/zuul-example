@@ -1,3 +1,5 @@
+article: http://confluence.marcuschiu.com/x/6wRDAQ
+
 ## Run Zuul & Api Servers
 
 run zuul gateway proxy
